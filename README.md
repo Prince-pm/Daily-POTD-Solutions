@@ -32,14 +32,14 @@ Daily-POTD-Solutions/
 
 ---
 
-## 📋 problem.md – Problem Statement
+## 📋 `problem.md` – Problem Statement
 
 This file contains a **clean summary** of the original problem:
 - Platform (LeetCode or GFG)
-- Link to the question
+- Problem link
 - Sample inputs and outputs
-- A rewritten version of the statement (optional)
+- Rewritten or summarized question (optional)
 
-Purpose: Understand the task without opening the platform.
+**🎯 Purpose**: Understand what the question is asking without visiting the original platform.
 
 ---
