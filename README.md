@@ -1,6 +1,6 @@
 # 🧠 Daily POTD Solutions – LeetCode & GeeksforGeeks
 
-Welcome to my repository of **Daily Problem of the Day (POTD)** solutions from **LeetCode (in C++)** and **GeeksforGeeks (in Python 3)**.
+Welcome to my repository of **Daily Problem of the Day (POTD)** solutions from **LeetCode** and **GeeksforGeeks**.
 
 This is not just a code dump – each problem is deeply documented with:
 - 🧠 **Concept explanation**
