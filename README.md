@@ -6,21 +6,23 @@ Each problem includes not only the solution, but also the **concept** behind the
 ---
 
 ## 📂 Folder Structure
+
+```text
 Daily-POTD-Solutions/
 │
 ├── LeetCode/
-│ └── DD-MM-YYYY/
-│ ├── problem.md # Problem summary
-│ ├── concept_explained.md # DSA/algorithm used
-│ ├── code_explained.md # Walkthrough of the solution
-│ └── solution.cpp # Final code 
+│   └── YYYY-MM-DD/
+│       ├── problem.md              # Problem statement & example
+│       ├── concept_explained.md    # Concepts/algorithms used
+│       ├── code_explained.md       # Step-by-step explanation of the code
+│       └── solution.cpp            # Final Code 
 │
 ├── GFG/
-│ └── DD-MM-YYYY/
-│ ├── problem.md # Problem summary
-│ ├── concept_explained.md # DSA/algorithm used
-│ ├── code_explained.md # Walkthrough of the solution
-│ └── solution.py # Final code 
+│   └── YYYY-MM-DD/
+│       ├── problem.md              # Problem statement & example
+│       ├── concept_explained.md    # Concepts/algorithms used
+│       ├── code_explained.md       # Step-by-step explanation of the code
+│       └── solution.py             # Final Code
 
 ---
 
@@ -36,10 +38,10 @@ Daily-POTD-Solutions/
 
 ## 🔗 Connect With Me
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [LeetCode](https://leetcode.com/your-username)
-- [GFG Profile](https://auth.geeksforgeeks.org/user/your-username)
+- [GitHub](https://github.com/Prince-pm)
+- [LinkedIn](www.linkedin.com/in/prince-makwana-ba0a63254)
+- [LeetCode](https://leetcode.com/u/princemak17/)
+- [GFG Profile](https://www.geeksforgeeks.org/user/princemaka21m/)
 
 ---
 
