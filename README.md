@@ -29,3 +29,17 @@ Daily-POTD-Solutions/
 │       ├── concept_explained.md    # Concepts and logic behind solution
 │       ├── code_explained.md       # Step-by-step code breakdown
 │       └── solution.py             # Final solution in 
+
+---
+
+## 📋 problem.md – Problem Statement
+
+This file contains a **clean summary** of the original problem:
+- Platform (LeetCode or GFG)
+- Link to the question
+- Sample inputs and outputs
+- A rewritten version of the statement (optional)
+
+Purpose: Understand the task without opening the platform.
+
+---
