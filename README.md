@@ -24,7 +24,6 @@ Daily-POTD-Solutions/
 │       ├── code_explained.md       # Step-by-step explanation of the code
 │       └── solution.py             # Final Code
 
----
 
 ## 🧠 What This Repo Offers
 
