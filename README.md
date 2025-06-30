@@ -1,4 +1,3 @@
-# Daily-POTD-Solutions
 # 🧠 Daily POTD Solutions – LeetCode & GeeksforGeeks
 
 Welcome to my repository of **Daily Problem of the Day (POTD)** solutions from **LeetCode** (in C++) and **GeeksforGeeks** (in Python 3).  
