@@ -29,17 +29,19 @@ Daily-POTD-Solutions/
 │       ├── concept_explained.md    # Concepts and logic behind solution
 │       ├── code_explained.md       # Step-by-step code breakdown
 │       └── solution.py             # Final solution in 
-
+```
 ---
 
-## 📋 `problem.md` – Problem Statement
+📋 problem.md – Problem Statement
+This file contains a clean summary of the original problem:
 
-This file contains a **clean summary** of the original problem:
-- Platform (LeetCode or GFG)
-- Problem link
-- Sample inputs and outputs
-- Rewritten or summarized question (optional)
+Platform (LeetCode or GFG)
 
-**🎯 Purpose**: Understand what the question is asking without visiting the original platform.
+Link to the question
 
----
+Sample inputs and outputs
+
+A rewritten version of the statement (optional)
+
+🎯 Purpose: Understand the task without needing to open the platform.
+
