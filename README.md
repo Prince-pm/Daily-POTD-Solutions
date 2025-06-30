@@ -24,8 +24,9 @@ Daily-POTD-Solutions/
 │       ├── code_explained.md       # Step-by-step explanation of the code
 │       └── solution.py             # Final Code
 
+---
 
-## 🧠 What This Repo Offers
+🧠 What This Repo Offers
 
 - ✅ **Daily practice** consistency
 - 📘 **Well-explained concepts** before coding
@@ -34,8 +35,7 @@ Daily-POTD-Solutions/
 
 ---
 
-
-## 🔗 Connect With Me
+🔗 Connect With Me
 
 - [GitHub](https://github.com/Prince-pm)
 - [LinkedIn](www.linkedin.com/in/prince-makwana-ba0a63254)
@@ -44,7 +44,7 @@ Daily-POTD-Solutions/
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 | Platform     | Language |
 |--------------|----------|
@@ -55,14 +55,14 @@ Tools used: Git, GitHub, VS Code, Python, C++, Markdown
 
 ---
 
-## 📄 License
+📄 License
 
 This project is open-source and available under the [MIT License](./LICENSE).  
 You’re free to use, copy, and distribute the code with attribution. ❤️
 
 ---
 
-## ⭐ Support
+⭐ Support
 
 If you like the effort, feel free to **star ⭐ this repo**, **share it**, or **contribute**!
 
