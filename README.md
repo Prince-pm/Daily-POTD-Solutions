@@ -18,17 +18,17 @@ Daily-POTD-Solutions/
 │
 ├── LeetCode/
 │   └── YYYY-MM-DD/
-│       ├── problem.md              # Summary of the problem and example
-│       ├── concept_explained.md    # Concepts and DSA techniques used
-│       ├── code_explained.md       # Step-by-step code breakdown
-│       └── solution.cpp            # Final solution 
+│       ├── problem                 # Summary of the problem and example
+│       ├── concept_explained       # Concepts and DSA techniques used
+│       ├── code_explained          # Step-by-step code breakdown
+│       └── solution                # Final solution 
 │
 ├── GFG/
 │   └── YYYY-MM-DD/
-│       ├── problem.md              # Summary of the problem and example
-│       ├── concept_explained.md    # Concepts and logic behind solution
-│       ├── code_explained.md       # Step-by-step code breakdown
-│       └── solution.py             # Final solution in 
+│       ├── problem                 # Summary of the problem and example
+│       ├── concept_explained       # Concepts and logic behind solution
+│       ├── code_explained          # Step-by-step code breakdown
+│       └── solution                # Final solution 
 ```
 ---
 
@@ -66,18 +66,6 @@ This file provides a **step-by-step breakdown** of the code:
 
 ---
 
-## 💻 `solution.cpp` / `solution.py` – Final Code
-
-These are the actual working solutions:
-- `solution.cpp` → LeetCode (C++)
-- `solution.py` → GFG (Python)
-
-Clean, tested, and optimized for clarity.
-
-**🎯 Purpose**: Final implementation ready for submission or practice.
-
----
-
 ## 🧠 What This Repo Offers
 
 - ✅ Consistent DSA practice through daily POTDs  
@@ -98,10 +86,10 @@ Clean, tested, and optimized for clarity.
 
 ## 🛠️ Tech Stack
 
-| Platform     | Language |
-|--------------|----------|
-| LeetCode     | C++      |
-| GeeksforGeeks| Python 3 |
+| Platform     | 
+|--------------|
+| LeetCode     | 
+| GeeksforGeeks| 
 
 Other tools used: Git, GitHub, Markdown, VS Code
 
