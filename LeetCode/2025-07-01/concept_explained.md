@@ -38,3 +38,5 @@ We want to find how many **distinct original strings** could have led to this ou
 ### ⏱️ Time & Space Complexity:
 - **Time Complexity:** O(n) – single scan for grouping + single loop over groups
 - **Space Complexity:** O(n) – for storing character groups
+
+---
