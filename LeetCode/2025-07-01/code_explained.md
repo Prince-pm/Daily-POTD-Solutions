@@ -31,3 +31,5 @@
 ### 📌 Important Note:
 
 - Since Alice is allowed to make this mistake **only once**, we apply possible reductions only to one group at a time — but summing for all of them works since we're considering **each as the possible one group** she messed up on.
+
+---
