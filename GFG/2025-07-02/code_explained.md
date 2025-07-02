@@ -1,4 +1,4 @@
-## 🧠 Code Explanation: Longest Subarray With At Most Two Distinct Integers
+## 🧠 Code Explanation – Step by Step
 
 ---
 
